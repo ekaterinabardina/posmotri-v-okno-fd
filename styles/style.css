@@ -55,7 +55,7 @@ ol {
 
 .content {
   display: flex;
-  flex-direction: row; 
+  flex-direction: row;
   align-items: flex-end;     /* Прижимает элементы к низу по вертикали */
   width: 1140px;
   height: 534px;
@@ -83,7 +83,7 @@ ol {
 
 .search-form {
   display: flex;
-  flex-direction: row; 
+  flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;         /* Прижимает элементы к верху по вертикали */
 }
@@ -109,7 +109,7 @@ ol {
 }
 
 .search-form__label:hover {
-  text-decoration: underline; 
+  text-decoration: underline;
   cursor: pointer;
 }
 
